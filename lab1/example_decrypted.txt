@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+This is a test file to demonstrate AES-256 encryption.
+Feel free to add more text for testing purposes.
